@@ -1,9 +1,0 @@
-  
-
-make
-
-./rtsp_h265
-
-ffplay rtsp:/127.0.0.1:8555
-
-
