@@ -1,0 +1,6 @@
+编译: make
+运行:
+./rtpserver_h265
+
+ffplay -protocol_whitelist "file,rtp,udp" test_h265.sdp
+
